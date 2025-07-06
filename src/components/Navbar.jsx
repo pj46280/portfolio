@@ -45,7 +45,7 @@ export default function Example() {
       <nav aria-label="Global" className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8">
         <div className="flex lg:flex-1">
         <a href="https://github.com/pj46280" target="_blank" rel="noopener noreferrer">
-            <FaGithub className="w-6 h-6 text-gray-800 hover:text-black transition" />
+            <FaGithub className="w-8 h-8 text-gray-800 hover:text-black transition" />
         </a>
         </div>
         <div className="flex lg:hidden">
